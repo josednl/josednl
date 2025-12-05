@@ -28,7 +28,6 @@ I am currently strengthening my full-stack development skills, learning new tech
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React"/>
 </a>
 
-<br/><br/>
 
 <h3>Backend</h3>
 
@@ -40,7 +39,6 @@ I am currently strengthening my full-stack development skills, learning new tech
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express"/>
 </a>
 
-<br/><br/>
 
 <h3>Databases</h3>
 
@@ -52,7 +50,6 @@ I am currently strengthening my full-stack development skills, learning new tech
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
 </a>
 
-<br/><br/>
 
 <h3>Others</h3>
 
@@ -70,4 +67,3 @@ I am currently strengthening my full-stack development skills, learning new tech
 You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/josedagudelo)
 * ✉️ [agudelo.josed@gmail.com](mailto:agudelo.josed@gmail.com)
-* 
