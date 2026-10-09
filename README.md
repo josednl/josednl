@@ -1,8 +1,7 @@
 ## Hi, I'm José 👋
 
-I am a web developer in training, nearing the end of my studies and with 6 months of previous practical experience. I am passionate about creating efficient, accessible applications focused on best practices, both on the frontend and backend.
-
-I am currently strengthening my full-stack development skills, learning new technologies, and creating projects to improve my focus on architecture, performance, and code quality.
+Full-Stack Developer focused on TypeScript, React, and Node.js. Experienced in building scalable web applications, designing RESTful APIs, and implementing event-driven architectures.
+With hands-on software development experience, I prioritize clean code, performance optimization, and strong software design principles.
 
 ### Tech Stack
 
