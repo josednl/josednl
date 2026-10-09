@@ -3,6 +3,20 @@
 Full-Stack Developer focused on TypeScript, React, and Node.js. Experienced in building scalable web applications, designing RESTful APIs, and implementing event-driven architectures.
 With hands-on software development experience, I prioritize clean code, performance optimization, and strong software design principles.
 
+### Featured Projects
+
+#### Real-Time Messaging Application
+* **Description:** A full-stack real-time messaging application built with a pnpm-workspace monorepo, featuring secure authentication, user profile management, and direct and group conversations. Designed with clean architecture to ensure scalability, maintainability, and consistent API contracts across the stack.
+* **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express, Socket.IO, PostgreSQL, Prisma, Zod, Jose.
+* **Key Features:** Real-time messaging, direct and group conversations, typing indicators, online presence, read receipts, secure JWT authentication with httpOnly cookies, cursor-based pagination, file attachments, guest mode, shared validation schemas, and clean architecture.
+* **Links:** [Repository](https://github.com/josednl/messaging-app) | [Live Demo](https://messaging-app-by-josednl.vercel.app/)
+
+#### Blog API
+* **Description:** A full-stack blogging platform powered by a modular RESTful API consumed by two frontend applications. Features secure user authentication, role-based access control, post and comment management, image uploads, and cookie-based preference persistence. Built with a layered architecture to ensure maintainability, scalability, and secure data handling.
+* **Tech Stack:** React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, JWT.
+* **Key Features:** RESTful API, secure JWT authentication with HTTP-only cookies, role-based access control (RBAC), CRUD operations for posts and comments, image uploads, input validation, soft deletes, API versioning, and modular architecture with controllers, services, and repositories.
+* **Links:** [Repository](https://github.com/josednl/blog-backend) | [Live Demo](https://blog-by-josednl.netlify.app/)
+
 ### Tech Stack
 
 <h3>Frontend</h3>
