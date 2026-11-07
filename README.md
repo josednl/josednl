@@ -31,5 +31,5 @@ Full-Stack Developer specialized in TypeScript, React, and Node.js. Experienced 
 ### Connect
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/josedagudelo)
-- 🌐 [Portfolio](https://josednl-portfolio.vercel.app/)
+- 🌐 [Portfolio](https://josednl.pages.dev/)
 - ✉️ [agudelo.josed@gmail.com](mailto:agudelo.josed@gmail.com)
